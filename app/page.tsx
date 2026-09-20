@@ -122,7 +122,7 @@ export default function HomePage() {
           </p>
           <div className="pt-2">
             <span className="inline-block bg-gray-800 text-teal-300 px-4 py-2 rounded-md font-mono text-sm border border-gray-700">
-              Contact: [ADD YOUR EMAIL HERE]
+              Contact: enavoir.co@gmail.com
             </span>
           </div>
         </div>
