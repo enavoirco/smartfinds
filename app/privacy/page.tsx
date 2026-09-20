@@ -120,7 +120,7 @@ export default function PrivacyPage() {
             If you have questions, feedback, or concerns regarding this Privacy Policy, please contact us at:
           </p>
           <div className="p-4 rounded-lg bg-gray-50 border border-gray-200 font-mono text-sm text-gray-800">
-            Contact: [ADD YOUR EMAIL HERE]
+            Contact: enavoir.co@gmail.com
           </div>
         </section>
       </div>
