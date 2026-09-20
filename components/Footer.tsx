@@ -68,7 +68,7 @@ export default function Footer() {
           <p>© {currentYear} smartfinds. All rights reserved.</p>
           <div className="flex items-center gap-2 text-gray-400 bg-gray-800/60 px-3 py-1.5 rounded-full">
             <Mail className="w-3.5 h-3.5 text-teal-400" />
-            <span>Contact: [ADD YOUR EMAIL HERE]</span>
+            <span>Contact: enavoir.co@gmail.com</span>
           </div>
         </div>
       </div>
